@@ -1,0 +1,13 @@
+Country,Average_Age,Analysis_Type,Count,Total_Salary_Spent,Gender,Total_Customers,Average_Salary
+Germany,,Average Salary by Country,,,,,35387.61389079244
+France,,Average Salary by Country,,,,,35388.101407060894
+England,,Average Salary by Country,,,,,35387.86422141547
+,,Gender Distribution,2412641,,Female,,
+,,Gender Distribution,2603096,,Male,,
+,54.66569200099607,Average Age of Customers,,,,,
+Germany,,Total Customers by Country,,,,1332307,
+France,,Total Customers by Country,,,,1410671,
+England,,Total Customers by Country,,,,2272759,
+Germany,,Total Salary Spend by Country,,4.71471657E10,,,
+France,,Total Salary Spend by Country,,4.99209684E10,,,
+England,,Total Salary Spend by Country,,8.04280869E10,,,
