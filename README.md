@@ -91,6 +91,8 @@ These issues were actively discussed and considered throughout the analysis pipe
 ---
 ## 🧭 Ethical Case Study: Big Retail Corp
 
+DATASET: https://drive.google.com/file/d/1mXTHLRpan4kyy_z0nTE7_mSPxIDkjZX0/view
+
 ### Background
 
 Big Retail Corp launched an app collecting real-time data (location, preferences, income, etc.). While it enables personalized offers, it raised **ethical concerns** around:
